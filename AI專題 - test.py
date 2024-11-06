@@ -2,7 +2,7 @@
 import requests
 
 # 你的 40 Mini API 金鑰
-api_key = "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"
+api_key = ""
 api_url = "https://ncuedu.tw/mygpts/2200/4408"
 headers = {
     "Authorization": f"Bearer {api_key}",
